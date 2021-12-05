@@ -1,0 +1,19 @@
+{
+    "name": "guy",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "DTm5Ng34nwG7dX5bF4k8YmYiZDeUt1ng5hpwdCsi69ti",
+          "share": 100
+        }
+      ]
+    }
+  }

@@ -1,0 +1,19 @@
+{
+    "name": "box",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "DTm5Ng34nwG7dX5bF4k8YmYiZDeUt1ng5hpwdCsi69ti",
+          "share": 100
+        }
+      ]
+    }
+  }
